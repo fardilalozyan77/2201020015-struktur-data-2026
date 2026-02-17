@@ -18,3 +18,5 @@ Repository ini berisi seluruh materi, latihan, tugas, dan final project mata kul
 - Minimal 5 commit per tugas
 - Gunakan branch develop
 - Sertakan README di setiap folder tugas
+
+## WAJIB mengisi IDENTITAS.json sebelum submit
