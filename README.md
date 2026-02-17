@@ -1,7 +1,7 @@
 # STRUKTUR DATA 2026
 
 ## Identitas
-Nama:
+Nama: 
 NIM:
 Program Studi:
 Mata Kuliah: Struktur Data
