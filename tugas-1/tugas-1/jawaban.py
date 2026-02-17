@@ -6,4 +6,5 @@ def main():
     
     # Simpan jawaban ke dalam file jawaban_output.txt
     with open('jawaban_output.txt', 'w') as output_file:
-        output_file.write(jawaban)
+        output_file.write(jawaban) 
+if __name__ == "__main__":    main()
