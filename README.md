@@ -1,11 +1,11 @@
 # STRUKTUR DATA PROJECT 2025-2026
 
 ## Identitas
-Nama: 
-NIM: 
-KELAS: 
-Program Studi:
-Mata Kuliah: Struktur Data
+### Nama: 
+### NIM: 
+### KELAS: 
+### Program Studi:
+### Mata Kuliah: Struktur Data
 
 ---
 
