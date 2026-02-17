@@ -11,7 +11,7 @@ Mata Kuliah: Struktur Data
 ## Fork Template
 lakukan persiapan:  
 1. Buka dan akses repositories github di: https://github.com/arthawebid/struktur-data-project-instiki-2026
-2. Lakukan fork dan buat repositories dengan format nama repositories: <NIM>-struktur-data-2026
+2. Lakukan fork dan buat repositories dengan format nama repositories: NIM-struktur-data-2026
 3. Buka dan edit identitas.json dan readme.json, Lengkapi Nama, NIM kelas dan di readme.md tambahkan program studi
 4. Untuk memudahkan pemeriksaan, koreksi dan penilaian, setiap project dibu
 5. at folder dengan ketentuan yang disampaikan oleh dosen (jangan buat folder secara random) dan sertakan readme.md pad setiap project seperti pada template yang sudah disertakan.  jika dalam satu project terdiri atas lebih dari satu maka dibuatkan folder tersendiri untuk tiap sub project
